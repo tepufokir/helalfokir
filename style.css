@@ -1,0 +1,89 @@
+body{
+    font-family: 'Tapestry', cursive;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.h{
+    color: rgb(0, 162, 255);
+    background-color: #f700ff;
+    background-size: 60px;
+}
+
+.f{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.f img{
+    width: 65%;
+}
+.batton{
+    text-decoration: none;
+    background-color: #f700ff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(217, 255, 0);
+    background-image: linear-gradient(45deg, #ff0000, #ffe600);
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+h2{
+    font-size: 50px;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+}
+.half img{
+    width: 65%;
+}
+#k{
+    background-color: #f700ff;
+    color: #00ff0d;
+}
+#dream-area{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.q{
+    background-image: url("image/q.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#b{
+    background-color: aqua;
+    color: #ff0000;
+}
+.i{
+   color: rgb(0, 4, 255);
+}
+h3{
+    color: orange;
+}
+.sydo{
+    box-shadow: 10px 10px 40px rgb(255, 139, 139);
+    border-radius: 5px;
+    height: 60%;
+}
+#m{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, rgb(255, 38, 0));
+    border-image-slice: 1;
+}
+#s-web{
+    border-left: 7px solid;
+    border-image: linear-gradient( blue, cyan);
+    border-image-slice: 1;
+}
